@@ -1,0 +1,4 @@
+vk_api
+robotframework
+robotframework-requests
+robotframework-jsonvalidator
